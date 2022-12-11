@@ -12,7 +12,7 @@ class TennisTest {
 
     @Test
     fun loveAllTest() {
-        shouldBeScore("Love All")
+        shouldBeScore("Love all")
     }
 
     @Test
